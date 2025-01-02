@@ -9,3 +9,5 @@ a = input("Enter something: ")
 
 # 打印變數 a
 print(a)
+
+print("how's the weather today?")
